@@ -11,4 +11,4 @@ With the advent of deep neural networks, deep reinforcement learning
 (DRL) was introduced which made reinforcement learning more powerful to tackle more
 sophisticated problems.
 
-This project employs soft actor-critic (SAC) and  deep Q-networks (DQN) which are the least and the most commonly used reinforcement learning methods in quantitative finance respectively, to compare their efficiency and profitability. In addition, the project also compares different reward function designs to achieve optimal performance.
+This project employs soft actor-critic (SAC) and  deep Q-networks (DQN) which are the least and the most commonly studied reinforcement learning methods in quantitative finance respectively, to compare their efficiency and profitability. In addition, the project also compares different reward function designs to achieve optimal performance.
